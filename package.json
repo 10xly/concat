@@ -1,0 +1,30 @@
+{
+  "name": "@rightpad/concat",
+  "version": "1.0.0",
+  "description": "Concatentation.",
+  "keywords": [
+    "concatentation",
+    "string",
+    "rightpad",
+    "padleft"
+  ],
+  "homepage": "https://github.com/right-pad/concat#readme",
+  "bugs": {
+    "url": "https://github.com/right-pad/concat/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/right-pad/concat.git"
+  },
+  "license": "Unlicense",
+  "author": "10x'ly made",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "call-bound": "^1.0.4",
+    "get-intrinsic": "^1.3.1"
+  }
+}
