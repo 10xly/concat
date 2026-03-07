@@ -31,6 +31,9 @@ console.log(result) // "Hello World!"
 ### Q: This is named after left-pad!!
 How on earth is @rightpad/concat named after left-pad???????? What kind of logic is that??? It's not. How can something that only shares three characters be named after something else??? That's like saying Michael is named after Fartael!! Also, that's not a question?
 
+### Q: But left is the opposite of right!!
+So??? It's not like Mich is not the opposite of Fart!!! Also that's not a question either.
+
 ### Q: What's 9 + 10?
 21.
 
